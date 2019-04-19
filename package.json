@@ -20,10 +20,15 @@
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
+    "adm-zip": "^0.4.13",
     "core-js": "^2.5.4",
+    "cryptiles": "^4.1.3",
+    "hoek": "^6.1.3",
     "lodash": "^4.17.11",
     "npm": "^6.9.0",
+    "parsejson": "0.0.3",
     "rxjs": "^6.3.2",
+    "url-parse": "^1.4.6",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
