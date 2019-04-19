@@ -1,0 +1,19 @@
+.contactInfo {
+    border: 2.5px solid rgb(100, 121, 128);
+    padding-bottom: 7px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+#phone, #linkedin, #email, #github {
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+div {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
